@@ -1,0 +1,7 @@
+{
+  "name": " Kalimba Joy",
+  "description": "A fun, educational, and interactive musical app for learning and playing the Kalimba. Features a virtual instrument, song tutorials, and voice commands.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
